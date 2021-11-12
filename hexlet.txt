@@ -1,3 +1,0 @@
-i like to change files \n ilike to change files
-Hello World $rnHello World!
-Hello World $'\r\n'Hello World!
